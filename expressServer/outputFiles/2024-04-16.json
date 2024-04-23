@@ -1,0 +1,1277 @@
+{
+  "2024-04-16T14:32:53.271Z": {
+    "ip_address": "66.205.169.138",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 42.34504543983275,
+    "upload_speed": 76.40244943856848,
+    "Current Connection": {
+      "RSSI": -54,
+      "Signal": 92,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "196 (76 %)",
+      "SSID": "ND-guest",
+      "BSSID": "7c:21:0d:45:92:a1",
+      "Receive rate (Mbps)": "130",
+      "Transmit rate (Mbps)": "144.4"
+    },
+    "All Connections": {
+      "ND-guest": {
+        "7c:21:0d:46:4d:8e": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "5 GHz",
+          "Channel": "36",
+          "Utilization": "92 (36 %)"
+        },
+        "6c:41:0e:1b:0c:61": {
+          "RSSI": -82.5,
+          "Signal": 35,
+          "Band": "2.4 GHz",
+          "Channel": "6",
+          "Utilization": "78 (30 %)"
+        },
+        "7c:21:0d:46:2d:a1": {
+          "RSSI": -89,
+          "Signal": 22,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "56 (21 %)"
+        },
+        "7c:21:0d:44:d3:61": {
+          "RSSI": -88,
+          "Signal": 24,
+          "Band": "2.4 GHz",
+          "Channel": "11",
+          "Utilization": "48 (18 %)"
+        },
+        "7c:21:0d:31:8d:2e": {
+          "RSSI": -92,
+          "Signal": 16,
+          "Band": "5 GHz",
+          "Channel": "112",
+          "Utilization": "3 (1 %)"
+        },
+        "7c:21:0d:46:2f:a1": {
+          "RSSI": -90,
+          "Signal": 20,
+          "Band": "5 GHz",
+          "Channel": "140",
+          "Utilization": "5 (1 %)"
+        },
+        "7c:21:0d:46:2d:ae": {
+          "RSSI": -85.5,
+          "Signal": 29,
+          "Band": "5 GHz",
+          "Channel": "136",
+          "Utilization": "1 (0 %)"
+        },
+        "7c:21:0d:45:40:6e": {
+          "RSSI": -83.5,
+          "Signal": 33,
+          "Band": "5 GHz",
+          "Channel": "140",
+          "Utilization": "8 (3 %)"
+        },
+        "7c:21:0d:45:47:ee": {
+          "RSSI": -83.5,
+          "Signal": 33,
+          "Band": "5 GHz",
+          "Channel": "108",
+          "Utilization": "1 (0 %)"
+        },
+        "7c:21:0d:46:35:2e": {
+          "RSSI": -81,
+          "Signal": 38,
+          "Band": "5 GHz",
+          "Channel": "60",
+          "Utilization": "6 (2 %)"
+        },
+        "7c:21:0d:46:3d:4e": {
+          "RSSI": -90,
+          "Signal": 20,
+          "Band": "5 GHz",
+          "Channel": "52",
+          "Utilization": "101 (39 %)"
+        },
+        "6c:41:0e:1b:0c:6e": {
+          "RSSI": -78.5,
+          "Signal": 43,
+          "Band": "5 GHz",
+          "Channel": "44",
+          "Utilization": "2 (0 %)"
+        },
+        "7c:21:0d:46:4e:6e": {
+          "RSSI": -84.5,
+          "Signal": 31,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "7 (2 %)"
+        },
+        "7c:21:0d:46:2f:ae": {
+          "RSSI": -81,
+          "Signal": 38,
+          "Band": "5 GHz",
+          "Channel": "56",
+          "Utilization": "13 (5 %)"
+        },
+        "7c:21:0d:45:92:a1": {
+          "RSSI": -54,
+          "Signal": 92,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "196 (76 %)",
+          "SSID": "ND-guest",
+          "BSSID": "7c:21:0d:45:92:a1",
+          "Receive rate (Mbps)": "130",
+          "Transmit rate (Mbps)": "144.4"
+        },
+        "7c:21:0d:45:68:8e": {
+          "RSSI": -80,
+          "Signal": 40,
+          "Band": "5 GHz",
+          "Channel": "48",
+          "Utilization": "5 (1 %)"
+        }
+      },
+      "3dprinter-71F4DC-": {
+        "f6:cf:a2:71:f4:dc": {
+          "RSSI": -87,
+          "Signal": 26,
+          "Band": "2.4 GHz",
+          "Channel": "1"
+        }
+      },
+      "eduroam": {
+        "7c:21:0d:34:ea:2f": {
+          "RSSI": -90,
+          "Signal": 20,
+          "Band": "5 GHz",
+          "Channel": "48",
+          "Utilization": "4 (1 %)"
+        },
+        "7c:21:0d:46:2d:af": {
+          "RSSI": -85.5,
+          "Signal": 29,
+          "Band": "5 GHz",
+          "Channel": "136",
+          "Utilization": "1 (0 %)"
+        },
+        "6c:41:0e:1b:0c:6f": {
+          "RSSI": -78.5,
+          "Signal": 43,
+          "Band": "5 GHz",
+          "Channel": "44",
+          "Utilization": "2 (0 %)"
+        },
+        "7c:21:0d:45:40:6f": {
+          "RSSI": -84.5,
+          "Signal": 31,
+          "Band": "5 GHz",
+          "Channel": "140",
+          "Utilization": "8 (3 %)"
+        },
+        "7c:21:0d:45:47:ef": {
+          "RSSI": -84.5,
+          "Signal": 31,
+          "Band": "5 GHz",
+          "Channel": "108",
+          "Utilization": "1 (0 %)"
+        },
+        "7c:21:0d:46:3d:4f": {
+          "RSSI": -91,
+          "Signal": 18,
+          "Band": "5 GHz",
+          "Channel": "52",
+          "Utilization": "101 (39 %)"
+        },
+        "7c:21:0d:45:68:8f": {
+          "RSSI": -80,
+          "Signal": 40,
+          "Band": "5 GHz",
+          "Channel": "48",
+          "Utilization": "5 (1 %)"
+        },
+        "7c:21:0d:46:4e:6f": {
+          "RSSI": -83.5,
+          "Signal": 33,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "7 (2 %)"
+        },
+        "7c:21:0d:46:4d:8f": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "5 GHz",
+          "Channel": "36",
+          "Utilization": "92 (36 %)"
+        },
+        "7c:21:0d:45:92:a0": {
+          "RSSI": -56.5,
+          "Signal": 87,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "27 (10 %)"
+        },
+        "7c:21:0d:46:35:2f": {
+          "RSSI": -82.5,
+          "Signal": 35,
+          "Band": "5 GHz",
+          "Channel": "60",
+          "Utilization": "6 (2 %)"
+        },
+        "7c:21:0d:46:2f:a0": {
+          "RSSI": -89,
+          "Signal": 22,
+          "Band": "5 GHz",
+          "Channel": "140",
+          "Utilization": "5 (1 %)"
+        },
+        "7c:21:0d:46:2f:af": {
+          "RSSI": -81,
+          "Signal": 38,
+          "Band": "5 GHz",
+          "Channel": "56",
+          "Utilization": "13 (5 %)"
+        }
+      },
+      "DIRECT-28-HP OfficeJet Pro 8210": {
+        "f6:39:09:6c:5f:28": {
+          "RSSI": -82.5,
+          "Signal": 35,
+          "Band": "2.4 GHz",
+          "Channel": "6"
+        }
+      },
+      "DIRECT-b3-HP M426 LaserJet": {
+        "5e:ea:1d:7d:31:b3": {
+          "RSSI": -70,
+          "Signal": 60,
+          "Band": "2.4 GHz",
+          "Channel": "11"
+        }
+      }
+    }
+  },
+  "2024-04-16T18:32:34.227Z": {
+    "ip_address": "2603:300f:1feb:c100:bd60:80e0:8709:a314",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 65.62900916965697,
+    "upload_speed": 34.2220449529804,
+    "Current Connection": {
+      "RSSI": -65.5,
+      "Signal": 69,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "191 (74 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "146"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65.5,
+          "Signal": 69,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "191 (74 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "146"
+        }
+      }
+    }
+  },
+  "2024-04-16T18:42:35.037Z": {
+    "ip_address": "2603:300f:1feb:c100:bd60:80e0:8709:a314",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 21.203561594804714,
+    "upload_speed": 19.777422852614436,
+    "Current Connection": {
+      "RSSI": -66.5,
+      "Signal": 67,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "162 (63 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "130"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -66.5,
+          "Signal": 67,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "162 (63 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "130"
+        }
+      }
+    }
+  },
+  "2024-04-16T19:18:11.291Z": {
+    "ip_address": "73.50.214.247",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 9.661663026295574,
+    "upload_speed": 0,
+    "Current Connection": {
+      "RSSI": -58,
+      "Signal": 84,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "84 (32 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "135",
+      "Transmit rate (Mbps)": "138"
+    },
+    "All Connections": {
+      "CBCI-B520": {
+        "b8:5e:71:ff:b5:24": {
+          "RSSI": -61,
+          "Signal": 78,
+          "Band": "2.4 GHz",
+          "Channel": "11",
+          "Utilization": "13 (5 %)"
+        }
+      },
+      "[range]_E30AJT7113327A": {
+        "40:ca:63:0e:3d:38": {
+          "RSSI": -77,
+          "Signal": 46,
+          "Band": "2.4 GHz",
+          "Channel": "1"
+        }
+      },
+      "xfinitywifi": {
+        "ba:5e:71:07:b5:6f": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "65 (25 %)"
+        }
+      },
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "65 (25 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -58,
+          "Signal": 84,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "84 (32 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "135",
+          "Transmit rate (Mbps)": "138"
+        }
+      },
+      "Xfinity Mobile": {
+        "ba:5e:71:07:b5:69": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "65 (25 %)"
+        }
+      }
+    }
+  },
+  "2024-04-16T19:29:07.039Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 63.687836483330095,
+    "upload_speed": 33.25066557947935,
+    "Current Connection": {
+      "RSSI": -66.5,
+      "Signal": 67,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "187 (73 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "146"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "15 (5 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -66.5,
+          "Signal": 67,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "187 (73 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "146"
+        }
+      }
+    }
+  },
+  "2024-04-16T19:39:06.791Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 70.46906545858853,
+    "upload_speed": 30.592367476877204,
+    "Current Connection": {
+      "RSSI": -64.5,
+      "Signal": 71,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "187 (73 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "117"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "11 (4 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -64.5,
+          "Signal": 71,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "187 (73 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "117"
+        }
+      }
+    }
+  },
+  "2024-04-16T19:49:06.836Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 73.42271005348248,
+    "upload_speed": 31.16346909437989,
+    "Current Connection": {
+      "RSSI": -65,
+      "Signal": 70,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "215 (84 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "138"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "215 (84 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "138"
+        }
+      }
+    }
+  },
+  "2024-04-16T19:59:07.177Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 62.95372865936444,
+    "upload_speed": 31.75160420271213,
+    "Current Connection": {
+      "RSSI": -65,
+      "Signal": 70,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "179 (70 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "138"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "179 (70 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "138"
+        }
+      }
+    }
+  },
+  "2024-04-16T20:09:06.927Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 68.48987302347729,
+    "upload_speed": 32.922632940999904,
+    "Current Connection": {
+      "RSSI": -63.5,
+      "Signal": 73,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "192 (75 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "163"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -63.5,
+          "Signal": 73,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "192 (75 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "163"
+        }
+      }
+    }
+  },
+  "2024-04-16T20:19:19.905Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 63.22926331889839,
+    "upload_speed": 33.50326196290306,
+    "Current Connection": {
+      "RSSI": -68,
+      "Signal": 64,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "199 (78 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "103"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -68,
+          "Signal": 64,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "199 (78 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "103"
+        }
+      }
+    }
+  },
+  "2024-04-16T20:29:19.915Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 63.296993780716136,
+    "upload_speed": 34.10417962236123,
+    "Current Connection": {
+      "RSSI": -66.5,
+      "Signal": 67,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "197 (77 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "146"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -66.5,
+          "Signal": 67,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "197 (77 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "146"
+        }
+      }
+    }
+  },
+  "2024-04-16T20:39:19.857Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 72.29625416700739,
+    "upload_speed": 34.17098382007677,
+    "Current Connection": {
+      "RSSI": -65,
+      "Signal": 70,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "198 (77 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "138"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "198 (77 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "138"
+        }
+      }
+    }
+  },
+  "2024-04-16T20:49:19.843Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 63.64573963041622,
+    "upload_speed": 32.65025595156436,
+    "Current Connection": {
+      "RSSI": -64,
+      "Signal": 72,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "198 (77 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "172"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "7 (2 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "198 (77 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "172"
+        }
+      }
+    }
+  },
+  "2024-04-16T20:59:19.942Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 70.17845416855772,
+    "upload_speed": 34.69240200557519,
+    "Current Connection": {
+      "RSSI": -67.5,
+      "Signal": 65,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "191 (74 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "115"
+    },
+    "All Connections": {
+      "xfinitywifi": {
+        "ba:5e:71:07:b5:6f": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "21 (8 %)"
+        }
+      },
+      "Xfinity Mobile": {
+        "ba:5e:71:07:b5:69": {
+          "RSSI": -66.5,
+          "Signal": 67,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "21 (8 %)"
+        }
+      },
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "21 (8 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "191 (74 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "115"
+        }
+      }
+    }
+  },
+  "2024-04-16T21:09:19.904Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 68.39150298267658,
+    "upload_speed": 34.012880514137144,
+    "Current Connection": {
+      "RSSI": -69.5,
+      "Signal": 61,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "216 (84 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "77"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -69,
+          "Signal": 62,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "13 (5 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -69.5,
+          "Signal": 61,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "216 (84 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "77"
+        }
+      }
+    }
+  },
+  "2024-04-16T21:19:19.832Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 64.07460447410789,
+    "upload_speed": 34.109756979812445,
+    "Current Connection": {
+      "RSSI": -64,
+      "Signal": 72,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "169 (66 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "155"
+    },
+    "All Connections": {
+      "xfinitywifi": {
+        "ba:5e:71:07:b5:6f": {
+          "RSSI": -69,
+          "Signal": 62,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "91 (35 %)"
+        }
+      },
+      "CBCI-B520": {
+        "b8:5e:71:ff:b5:24": {
+          "RSSI": -83.5,
+          "Signal": 33,
+          "Band": "2.4 GHz",
+          "Channel": "11",
+          "Utilization": "23 (9 %)"
+        }
+      },
+      "[range]_E30AJT7113327A": {
+        "40:ca:63:0e:3d:38": {
+          "RSSI": -92,
+          "Signal": 16,
+          "Band": "2.4 GHz",
+          "Channel": "1"
+        }
+      },
+      "Xfinity Mobile": {
+        "ba:5e:71:07:b5:69": {
+          "RSSI": -69,
+          "Signal": 62,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "91 (35 %)"
+        }
+      },
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "91 (35 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "169 (66 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "155"
+        }
+      },
+      "CBCI-B676": {
+        "b8:5e:71:ff:b6:7a": {
+          "RSSI": -89,
+          "Signal": 22,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "44 (17 %)"
+        }
+      }
+    }
+  },
+  "2024-04-16T21:29:19.899Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 60.441212873687284,
+    "upload_speed": 33.17192930081399,
+    "Current Connection": {
+      "RSSI": -63.5,
+      "Signal": 73,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "194 (76 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "146"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -62.5,
+          "Signal": 75,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "14 (5 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -63.5,
+          "Signal": 73,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "194 (76 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "146"
+        }
+      }
+    }
+  },
+  "2024-04-16T21:39:20.646Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 59.53341508705561,
+    "upload_speed": 32.84413633608554,
+    "Current Connection": {
+      "RSSI": -65,
+      "Signal": 70,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "200 (78 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "115",
+      "Transmit rate (Mbps)": "138"
+    },
+    "All Connections": {
+      "CBCI-B520": {
+        "b8:5e:71:ff:b5:24": {
+          "RSSI": -83.5,
+          "Signal": 33,
+          "Band": "2.4 GHz",
+          "Channel": "11",
+          "Utilization": "35 (13 %)"
+        }
+      },
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "9 (3 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "200 (78 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "115",
+          "Transmit rate (Mbps)": "138"
+        }
+      }
+    }
+  },
+  "2024-04-16T21:49:20.032Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 63.7969849754848,
+    "upload_speed": 33.79193510916897,
+    "Current Connection": {
+      "RSSI": -65,
+      "Signal": 70,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "193 (75 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "155"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "146 (57 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "193 (75 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "155"
+        }
+      }
+    }
+  },
+  "2024-04-16T21:59:20.132Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 66.65511871812951,
+    "upload_speed": 34.35855610209806,
+    "Current Connection": {
+      "RSSI": -65.5,
+      "Signal": 69,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "191 (74 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "146"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65.5,
+          "Signal": 69,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "191 (74 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "146"
+        }
+      }
+    }
+  },
+  "2024-04-16T23:09:58.799Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 69.68205701556404,
+    "upload_speed": 32.496935485570596,
+    "Current Connection": {
+      "RSSI": -64,
+      "Signal": 72,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "188 (73 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "103"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -69,
+          "Signal": 62,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "31 (12 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "188 (73 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "103"
+        }
+      }
+    }
+  },
+  "2024-04-16T23:19:58.390Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 68.26522211388617,
+    "upload_speed": 34.082201198237534,
+    "Current Connection": {
+      "RSSI": -65.5,
+      "Signal": 69,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "194 (76 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "146"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65.5,
+          "Signal": 69,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "194 (76 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "146"
+        }
+      }
+    }
+  },
+  "2024-04-16T23:29:58.619Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 68.12575165940116,
+    "upload_speed": 33.771345434009085,
+    "Current Connection": {
+      "RSSI": -64,
+      "Signal": 72,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "189 (74 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "155"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6d": {
+          "RSSI": -67.5,
+          "Signal": 65,
+          "Band": "5 GHz",
+          "Channel": "40",
+          "Utilization": "10 (3 %)"
+        },
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "189 (74 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "155"
+        }
+      },
+      "CBCI-B520": {
+        "b8:5e:71:ff:b5:24": {
+          "RSSI": -70,
+          "Signal": 60,
+          "Band": "2.4 GHz",
+          "Channel": "11",
+          "Utilization": "33 (12 %)"
+        }
+      },
+      "": {
+        "3c:b7:4b:b9:ec:e6": {
+          "RSSI": -85.5,
+          "Signal": 29,
+          "Band": "2.4 GHz",
+          "Channel": "1"
+        },
+        "3c:b7:4b:b9:ec:e2": {
+          "RSSI": -84.5,
+          "Signal": 31,
+          "Band": "2.4 GHz",
+          "Channel": "1"
+        }
+      },
+      "TheConvent": {
+        "3c:b7:4b:b9:ec:e1": {
+          "RSSI": -84.5,
+          "Signal": 31,
+          "Band": "2.4 GHz",
+          "Channel": "1"
+        }
+      }
+    }
+  },
+  "2024-04-16T23:39:58.449Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 64.83040416969116,
+    "upload_speed": 33.0039597042595,
+    "Current Connection": {
+      "RSSI": -64,
+      "Signal": 72,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "183 (71 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "155"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -64,
+          "Signal": 72,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "183 (71 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "155"
+        }
+      }
+    }
+  },
+  "2024-04-16T23:49:58.352Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 66.10490826637603,
+    "upload_speed": 34.25044134442118,
+    "Current Connection": {
+      "RSSI": -65,
+      "Signal": 70,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "190 (74 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "129",
+      "Transmit rate (Mbps)": "155"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -65,
+          "Signal": 70,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "190 (74 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "129",
+          "Transmit rate (Mbps)": "155"
+        }
+      }
+    }
+  },
+  "2024-04-16T23:59:58.409Z": {
+    "ip_address": "2603:300f:1feb:c100:a4d6:2d74:9ee7:70b5",
+    "mac_address": "08:5b:d6:a2:ed:b4",
+    "download_speed": 64.7652048021037,
+    "upload_speed": 30.914276765748873,
+    "Current Connection": {
+      "RSSI": -66.5,
+      "Signal": 67,
+      "Band": "2.4 GHz",
+      "Channel": "1",
+      "Utilization": "199 (78 %)",
+      "SSID": "CBCI-B568",
+      "BSSID": "b8:5e:71:ff:b5:6c",
+      "Receive rate (Mbps)": "143",
+      "Transmit rate (Mbps)": "117"
+    },
+    "All Connections": {
+      "CBCI-B568": {
+        "b8:5e:71:ff:b5:6c": {
+          "RSSI": -66.5,
+          "Signal": 67,
+          "Band": "2.4 GHz",
+          "Channel": "1",
+          "Utilization": "199 (78 %)",
+          "SSID": "CBCI-B568",
+          "BSSID": "b8:5e:71:ff:b5:6c",
+          "Receive rate (Mbps)": "143",
+          "Transmit rate (Mbps)": "117"
+        }
+      }
+    }
+  }
+}
