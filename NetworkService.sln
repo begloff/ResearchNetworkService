@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkService", "NetworkService\NetworkService.csproj", "{33ECF9E1-8152-4B8E-9863-1A34A65590F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NetworkServiceSetup", "NetworkServiceSetup\NetworkServiceSetup.vdproj", "{CE9726B9-A286-4319-84C8-9E455B2EF568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ECF9E1-8152-4B8E-9863-1A34A65590F9}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{33ECF9E1-8152-4B8E-9863-1A34A65590F9}.All|Any CPU.Build.0 = Release|Any CPU
+		{33ECF9E1-8152-4B8E-9863-1A34A65590F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ECF9E1-8152-4B8E-9863-1A34A65590F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ECF9E1-8152-4B8E-9863-1A34A65590F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ECF9E1-8152-4B8E-9863-1A34A65590F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9726B9-A286-4319-84C8-9E455B2EF568}.All|Any CPU.ActiveCfg = Debug
+		{CE9726B9-A286-4319-84C8-9E455B2EF568}.Debug|Any CPU.ActiveCfg = Debug
+		{CE9726B9-A286-4319-84C8-9E455B2EF568}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04ED932D-0805-4C46-BC80-BD1DEB94AA44}
+	EndGlobalSection
+EndGlobal
