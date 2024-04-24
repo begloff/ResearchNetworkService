@@ -6,6 +6,9 @@ import requests
 import uuid
 
 def get_ip():
+    
+    #FETCH IP     
+    
     try:
         result = subprocess.run(['curl', 'ifconfig.me'], capture_output=True, text=True, timeout=5)
         ip_address = result.stdout.strip()
@@ -48,6 +51,8 @@ if __name__ == "__main__":
     url = "http://localhost:3000/api/v1/networkinfo"
     headers = {"Content-Type": "application/json"}
     response = requests.post(url, data=json.dumps(ip_data), headers=headers)
+    
+    print(f'OUTPUT: {json.dumps(ip_data, indent=4)}')
     
     if response.status_code == 200:
         print("POST request successful.")
