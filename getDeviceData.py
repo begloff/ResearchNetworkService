@@ -1,8 +1,4 @@
-import sys
-import os
 import subprocess
-import json
-from datetime import datetime
 
 def getDeviceData(dt, dirname):   
     #runs a process to get information about the current network connection
