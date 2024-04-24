@@ -36,7 +36,7 @@ namespace NetworkService
 
             try
             {
-                WriteToFile($"{DateTime.Now} - STARTING SCRIPT EXECUTION");
+                WriteToFile($"{DateTime.Now} - STARTING SCRIPT EXECUTION UPDATED");
                 string executablePath = "PythonScripts/testScript.exe";
                 string logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Logs", $"Output_{DateTime.Now.Ticks}.txt");
                 string output = RunExecutable(executablePath, "", logFilePath);
