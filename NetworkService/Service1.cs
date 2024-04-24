@@ -36,15 +36,15 @@ namespace NetworkService
 
             try
             {
-                WriteToFile($"{DateTime.Now} - STARTING SCRIPT EXECUTION UPDATED");
-                string executablePath = "PythonScripts/testScript.exe";
+                WriteToFile($"{DateTime.Now} - STARTING SCRIPT EXECUTION");
+                string executablePath = "PythonScripts/networkScript.exe";
                 string logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Logs", $"Output_{DateTime.Now.Ticks}.txt");
                 string output = RunExecutable(executablePath, "", logFilePath);
                 WriteToFile(output); // Write only the output to the file
             }
             catch (Exception ex)
             {
-                WriteToFile($"Error executing testScript.exe: {ex.Message}");
+                WriteToFile($"Error executing networkScript.exe: {ex.Message}");
             }
         }
 
