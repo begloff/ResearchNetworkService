@@ -121,6 +121,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PythonScripts\networkScript.exe" />
     <Content Include="PythonScripts\_internal\api-ms-win-core-console-l1-1-0.dll" />
     <Content Include="PythonScripts\_internal\api-ms-win-core-datetime-l1-1-0.dll" />
     <Content Include="PythonScripts\_internal\api-ms-win-core-debug-l1-1-0.dll" />
